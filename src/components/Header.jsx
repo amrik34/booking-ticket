@@ -21,7 +21,7 @@ function Header() {
                 <div className="collapse navbar-collapse d-flex justify-content-between" id="navbarSupportedContent">
                     <ul className="navbar-nav mr-auto">
                         <li className="nav-item active">
-                            <Link className="nav-link" to='/'>New Home</Link>
+                            <Link className="nav-link" to='/'>Home New</Link>
                         </li>
                         <li className="nav-item">
                             <Link className="nav-link" to='/about'>About</Link>
